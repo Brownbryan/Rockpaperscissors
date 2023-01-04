@@ -90,7 +90,7 @@ body{
 }
 
 .main-container{
-    background-color: #023d11;
+    background-color: #2e302e;
     background-size: cover;
     height: 100vh;
     padding: 40px;
@@ -166,7 +166,7 @@ body{
 }
 
 .paper-image-container{
-    border: 12px solid #48d606;
+    border: 12px solid #2506d6;
     box-shadow: inset 0px 3px 0px 0px #cbc8c8, 0px 3px 0px 0px blue;
 }
 
