@@ -456,7 +456,7 @@ body{
 }
 
 footer{
-    color: white;
+    color: #fff;
     display: flex;
     background: #00020a;
     align-items: center;
@@ -464,26 +464,28 @@ footer{
   
  }
 
-footer .social_links {
+.social_links {
     justify-content: space-between;
     align-items: center;
 }
-footer .social_links :hover,
-footer .social_links :active{
+.social_links :hover,
+.social_links :active{
     color:rgb(0, 68, 255);
 }
 
 footer .copyright{
+    text-align: end;
     align-items: center;
     width: 100%;
 }
-.social_links :hover{
 
-border-radius: 30%;
-padding: 12px;
+footer .follow{
+    display: inline;
+    align-items: center;
+    padding-bottom: 1px;
 }
 
 footer .follow_us{
-    text-align: center;
+    text-align: start;
     padding-bottom: 0px;
 }
