@@ -461,9 +461,13 @@ footer{
     background: #00020a;
     align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
+  
  }
 
+footer .social_links {
+    justify-content: space-between;
+    align-items: center;
+}
 footer .social_links :hover,
 footer .social_links :active{
     color:rgb(0, 68, 255);
