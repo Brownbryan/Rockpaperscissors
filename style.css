@@ -1,9 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Trirong');
 
 body{
-    background-color: #ba9004;
+    background-color: #303031;
     margin: 0px;
 }
+.img_logo{
+    width: 80px;
+    align-self: center;
+    padding: 5px 0;
+    height: auto;
+    mix-blend-mode: color-burn;
+}
+
+.ico{
+    mix-blend-mode: color-burn;
+}
+
 *{
     box-sizing: border-box;
 }
