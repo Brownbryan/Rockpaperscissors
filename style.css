@@ -470,7 +470,7 @@ footer .social_links :active{
 }
 
 footer .copyright{
-    text-align: center;
+    align-items: center;
     width: 100%;
 }
 .social_links :hover{
